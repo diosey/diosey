@@ -5,8 +5,7 @@ Hi i'm adolfo diaz, i am an electronic engineer focused on hardware design, embe
 EDA: Kicad
 Simulations: LTspice, Proteus, Multisim
 
-Currently working on expand my portfolio of designs, and learning about FPGAs; these are very interesting.
-
+Currently working on expand my portfolio of designs, focusing in embedded hardware and PCB manufacturing.
 ## How to reach me:
 
 Gmail: dioseyadolfolugo@gmail.com
